@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""thiss script fetches data from
+"""thiss script fetches data from
     https://alxu-intranet.hbtn.io/status
 """
 
